@@ -1,0 +1,23 @@
+PODS:
+  - HanekeSwift (0.10.1)
+  - Realm (1.0.0):
+    - Realm/Headers (= 1.0.0)
+  - Realm/Headers (1.0.0)
+  - RealmSwift (1.0.0):
+    - Realm (= 1.0.0)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - HanekeSwift
+  - RealmSwift
+  - SwiftyJSON (~> 2.3.1)
+
+SPEC CHECKSUMS:
+  HanekeSwift: 08e47d3d0f2899ec58e5d257beba0de619aca9e8
+  Realm: e15cd8e7c11d3e576f628ba0b7cb855269b4991c
+  RealmSwift: 3229306d020d96f83b335f87a0dcbf2cef0e6a2b
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: 22153864a036a39d83e62159e55d6b3c4f4ebf30
+
+COCOAPODS: 1.0.0
