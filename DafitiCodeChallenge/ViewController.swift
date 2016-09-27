@@ -151,6 +151,7 @@ class ViewController: UIViewController, UICollectionViewDataSource, UICollection
         
         cell.mainImageView.image = UIImage.init(named: "Image_Background")
         cell.titleLabel.text = movieObject.title
+        cell.yearLabel.text = String(movieObject.year)
         
         //Do a image cache
         cell.mainImageView.hnk_setImageFromURL(NSURL(string: movieObject.thumb)!, placeholder: nil, format: nil, failure: { (error) in

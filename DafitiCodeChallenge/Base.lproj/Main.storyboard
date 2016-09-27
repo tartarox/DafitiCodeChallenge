@@ -222,7 +222,7 @@
                                             <outlet property="activityView" destination="ydb-Sb-plK" id="TNe-ND-edC"/>
                                             <outlet property="mainImageView" destination="7Dr-5Z-cQN" id="UlX-6v-aZz"/>
                                             <outlet property="titleLabel" destination="j53-eC-p2J" id="W5Y-Hl-ZNL"/>
-                                            <outlet property="yearLabel" destination="nrD-U4-gnK" id="E7r-Yd-bdh"/>
+                                            <outlet property="yearLabel" destination="nrD-U4-gnK" id="06c-ru-wO7"/>
                                         </connections>
                                     </collectionViewCell>
                                 </cells>
